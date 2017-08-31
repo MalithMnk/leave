@@ -11,7 +11,7 @@
 
 ## How to run
 
-###### Download this project and open workplace file availble in project folder. You can run this workplace file using Xcode 8.3 and iOS 10.3 .
+###### Download this project and open 'Friendly leave 2.0.xcworkspace' file availble in project folder. You can run this workplace file using Xcode 8.3 and iOS 10.3 .
 
 
 
