@@ -1,5 +1,5 @@
 # Friendly leave 2.0(iOS)
-#
+
 
 ## Features
 
@@ -7,13 +7,13 @@
 * ###### Application developed by using Google [firebase](https://firebase.google.com). It helps to build application fast and get more services like authentcation, realtime databse, storage and hosting.
 * ###### This iOS app only for requesting leave and check availabilty of remain leaves. For reject or approve can be do using my web application available on this [link](https://project-lms-fb008.firebaseapp.com/signInPage.html).
 
-#
+
 
 ## How to run
 
 ###### Download this project and open workplace file availble in project folder. You can run this workplace file using Xcode 8.3 and iOS 10.3 .
 
-#
+
 
 ## Login details
 
@@ -43,10 +43,11 @@
    password : admin02.password
     ```
 
-#
+
 
 ## Bugs
 
 ###### Still some bugs available in this project. Please send me if you found some errors using this [mail](m.nadeeshan@yahoo.co.uk).
-#
+
+
 ###### This is not a final application. I hope to develop more. If you like this to test this project, you can download and test it.
